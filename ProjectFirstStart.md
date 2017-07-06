@@ -1,6 +1,7 @@
 ## 안드로이드 첫번째 프로젝트 실행하기 ##
 
 ### 프로젝트 생성 ###
+
 * **Android Studio**에서 새 프로젝트를 생성
 	
 	열려있는 프로젝트가 없으면 **Welcome to Android Studio** 창에서 **Start a new Android Studio project**를 클릭
