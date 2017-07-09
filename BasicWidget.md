@@ -484,7 +484,7 @@ ArrayAdapter의 android.R.layout.simple_dropdown_item_1line는 문자열들을 �
 
 아래 그림은 **콤마토크나이저**를 이용한 멀티 자동완성 텍스트뷰이다.
 
-![멀티완성](./img/MultiAutocompleteTextView.png)
+![멀티완성](./img/MultiautocompleteTextView.png)
 
 **MultiAutoCompleteTextView xml 코드**
 
