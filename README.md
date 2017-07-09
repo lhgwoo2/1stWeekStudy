@@ -10,7 +10,7 @@
 
 **[4. 액티비티 살펴보기](./ActivityContents.md)**
 
-**[5. 안드로이드 기본 위젯 살펴보기](./ActivityContents.md)**
+**[5. 안드로이드 기본 위젯 살펴보기](./BasicWidget.md)**
 
 **6. 안드로이드 뷰 컨테이너 살펴보기**
 

@@ -16,13 +16,13 @@
 액티비티 상위 클래스
 >java.lang.Object.
 
-> ↳ android.content.Context.
+> >↳ android.content.Context.
 
-> ↳ android.content.ContextWrapper
+> > >↳ android.content.ContextWrapper
 
-> ↳ android.view.ContextThemeWrapper
+> > > >↳ android.view.ContextThemeWrapper
 
-> ↳ android.app.Activity
+> > > > >↳ android.app.Activity
 
 
 **Known Direct Subclasses**
